@@ -22,3 +22,7 @@
 [dayjs](https://github.com/iamkun/dayjs)
 
 > 时间工具库
+
+[uiverse](https://uiverse.io/)
+
+> Create, share, and use beautiful custom elements made with CSS or Tailwind
