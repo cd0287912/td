@@ -26,3 +26,7 @@
 [uiverse](https://uiverse.io/)
 
 > Create, share, and use beautiful custom elements made with CSS or Tailwind
+
+[yjs](https://docs.yjs.dev/)
+> Modular building blocks for building collaborative applications like Google Docs and Figma
+
