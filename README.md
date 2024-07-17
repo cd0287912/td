@@ -30,3 +30,5 @@
 [yjs](https://docs.yjs.dev/)
 > Modular building blocks for building collaborative applications like Google Docs and Figma
 
+[leaferjs](https://www.leaferjs.com/ui/)
+> 简洁、开放、现代化的 UI 绘图框架
