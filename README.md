@@ -32,3 +32,6 @@
 
 [leaferjs](https://www.leaferjs.com/ui/)
 > 简洁、开放、现代化的 UI 绘图框架
+
+[Zustand](https://docs.pmnd.rs/)
+> Zustand is a small, fast and scalable bearbones state-management solution, it has a comfy api based on hooks
