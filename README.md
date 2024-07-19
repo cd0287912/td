@@ -35,3 +35,6 @@
 
 [Zustand](https://docs.pmnd.rs/)
 > Zustand is a small, fast and scalable bearbones state-management solution, it has a comfy api based on hooks
+
+[lottie](http://airbnb.io/lottie/#/README)
+> Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as JSON with Bodymovin and renders them natively on mobile and on the web!
